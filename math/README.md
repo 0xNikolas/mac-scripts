@@ -19,5 +19,4 @@ Command: `hextodec fff`
 
 ### Future iomprovements
 
-- [ ] Remove `0x` from input
 - [ ] Expand functionality to ASCII
